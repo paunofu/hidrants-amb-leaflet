@@ -7,7 +7,7 @@
         <script src="./leaflet.js"></script>
     </head>
     <body>
-        <div id="map"></div>
+        <div id="map" style="width: 600px; height: 400px; position: relative; outline: none;" class="leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" tabindex="0"></div>
         <script>
             var map = L.map('map').setView([51.505, -0.09], 13);
             L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoicGF1bm9mdSIsImEiOiJja3d5dmQ1OXYwMWE0Mm9xenFhMjF1aXdwIn0.dMChylER_5M1j5j7JSl9SQ', {
@@ -21,3 +21,4 @@
         </script>
     </body>
 </html>
+
