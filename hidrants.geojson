@@ -3,7 +3,7 @@ var hidrant =
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-08-22T01:31:40Z",
+  "timestamp": "2022-11-22T07:10:38Z",
   "features": [
     {
       "type": "Feature",
@@ -412,7 +412,8 @@ var hidrant =
       "type": "Feature",
       "properties": {
         "@id": "node/9480710355",
-        "emergency": "fire_hydrant"
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground"
       },
       "geometry": {
         "type": "Point",
@@ -1860,8 +1861,8 @@ var hidrant =
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.1016414,
-          38.8260986
+          0.1016322,
+          38.8260861
         ]
       },
       "id": "node/9643962434"
@@ -1972,7 +1973,9 @@ var hidrant =
       "type": "Feature",
       "properties": {
         "@id": "node/9663659768",
-        "emergency": "fire_hydrant"
+        "emergency": "fire_hydrant",
+        "fire_hydrant:position": "sidewalk",
+        "fire_hydrant:type": "underground"
       },
       "geometry": {
         "type": "Point",
@@ -2125,6 +2128,7 @@ var hidrant =
       "properties": {
         "@id": "node/9677839554",
         "emergency": "fire_hydrant",
+        "fire_hydrant:position": "sidewalk",
         "fire_hydrant:type": "pillar"
       },
       "geometry": {
@@ -2970,6 +2974,107 @@ var hidrant =
         ]
       },
       "id": "node/9968077069"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9999791085",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:position": "sidewalk",
+        "fire_hydrant:type": "underground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0073629,
+          38.8532397
+        ]
+      },
+      "id": "node/9999791085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10008229117",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:position": "sidewalk",
+        "fire_hydrant:type": "underground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1073417,
+          38.8399648
+        ]
+      },
+      "id": "node/10008229117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10012294071",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:position": "sidewalk",
+        "fire_hydrant:type": "underground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.063788,
+          38.8295548
+        ]
+      },
+      "id": "node/10012294071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10120329036",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:type": "underground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0857928,
+          38.778294
+        ]
+      },
+      "id": "node/10120329036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10148348863",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:position": "sidewalk",
+        "fire_hydrant:type": "pillar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0412044,
+          38.7997251
+        ]
+      },
+      "id": "node/10148348863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10148357772",
+        "emergency": "fire_hydrant",
+        "fire_hydrant:position": "sidewalk",
+        "fire_hydrant:type": "underground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0389398,
+          38.7997732
+        ]
+      },
+      "id": "node/10148357772"
     }
   ]
 }
