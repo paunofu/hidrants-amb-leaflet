@@ -10,7 +10,7 @@ var hidrant =
       "properties": {
         "@id": "node/1741743440",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -26,7 +26,7 @@ var hidrant =
       "properties": {
         "@id": "node/1742670838",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -88,7 +88,7 @@ var hidrant =
       "properties": {
         "@id": "node/8796566305",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -120,7 +120,7 @@ var hidrant =
         "@id": "node/9453073294",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground",
+        "tipo": "Subterrani",
         "survey:date": "2022-01-31"
       },
       "geometry": {
@@ -139,7 +139,7 @@ var hidrant =
         "emergency": "fire_hydrant",
         "fire_hydrant:diameter": "100",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -156,7 +156,7 @@ var hidrant =
         "@id": "node/9459123435",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@ var hidrant =
         "@id": "node/9459285216",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "lane",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -190,7 +190,7 @@ var hidrant =
         "@id": "node/9459346071",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -208,7 +208,7 @@ var hidrant =
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground",
+        "tipo": "Subterrani",
         "image": "https://i.imgur.com/N7PQVrc.jpg"
       },
       "geometry": {
@@ -226,7 +226,7 @@ var hidrant =
         "@id": "node/9461603613",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -243,7 +243,7 @@ var hidrant =
         "@id": "node/9461605217",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -260,7 +260,7 @@ var hidrant =
         "@id": "node/9461608006",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -277,7 +277,7 @@ var hidrant =
         "@id": "node/9461660835",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground",
+        "tipo": "Subterrani",
         "survey:date": "2022-01-30"
       },
       "geometry": {
@@ -295,7 +295,7 @@ var hidrant =
         "@id": "node/9463392979",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -312,7 +312,7 @@ var hidrant =
         "@id": "node/9464302249",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -329,7 +329,7 @@ var hidrant =
         "@id": "node/9466889101",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -346,7 +346,7 @@ var hidrant =
         "@id": "node/9466893630",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -363,7 +363,7 @@ var hidrant =
         "@id": "node/9466896312",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -380,7 +380,7 @@ var hidrant =
         "@id": "node/9472767581",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -397,7 +397,7 @@ var hidrant =
         "@id": "node/9477113418",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -413,7 +413,7 @@ var hidrant =
       "properties": {
         "@id": "node/9480710355",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -430,7 +430,7 @@ var hidrant =
         "@id": "node/9483722649",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -447,7 +447,7 @@ var hidrant =
         "@id": "node/9484244927",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -466,7 +466,7 @@ var hidrant =
         "emergency": "fire_hydrant",
         "fire_hydrant:diameter": "100",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -483,7 +483,7 @@ var hidrant =
         "@id": "node/9490699161",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -500,7 +500,7 @@ var hidrant =
         "@id": "node/9492422144",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -518,7 +518,7 @@ var hidrant =
         "access": "no",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -535,7 +535,7 @@ var hidrant =
         "@id": "node/9502753701",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -553,7 +553,7 @@ var hidrant =
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -570,7 +570,7 @@ var hidrant =
         "@id": "node/9512371586",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -587,7 +587,7 @@ var hidrant =
         "@id": "node/9514392623",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -604,7 +604,7 @@ var hidrant =
         "@id": "node/9522314560",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -621,7 +621,7 @@ var hidrant =
         "@id": "node/9524958040",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -638,7 +638,7 @@ var hidrant =
         "@id": "node/9524992924",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -655,7 +655,7 @@ var hidrant =
         "@id": "node/9525012352",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -672,7 +672,7 @@ var hidrant =
         "@id": "node/9525021258",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -689,7 +689,7 @@ var hidrant =
         "@id": "node/9525029497",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -706,7 +706,7 @@ var hidrant =
         "@id": "node/9525073527",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -723,7 +723,7 @@ var hidrant =
         "@id": "node/9525073528",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -740,7 +740,7 @@ var hidrant =
         "@id": "node/9529198781",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -757,7 +757,7 @@ var hidrant =
         "@id": "node/9532551533",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "green",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -774,7 +774,7 @@ var hidrant =
         "@id": "node/9532566833",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "green",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -791,7 +791,7 @@ var hidrant =
         "@id": "node/9532568955",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "green",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -808,7 +808,7 @@ var hidrant =
         "@id": "node/9532615157",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "green",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -825,7 +825,7 @@ var hidrant =
         "@id": "node/9532616754",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "green",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -842,7 +842,7 @@ var hidrant =
         "@id": "node/9532617433",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "green",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -859,7 +859,7 @@ var hidrant =
         "@id": "node/9532630097",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "green",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -876,7 +876,7 @@ var hidrant =
         "@id": "node/9540502841",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -893,7 +893,7 @@ var hidrant =
         "@id": "node/9544819989",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -910,7 +910,7 @@ var hidrant =
         "@id": "node/9544824209",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -943,7 +943,7 @@ var hidrant =
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground",
+        "tipo": "Subterrani",
         "image": "https://i.imgur.com/hxCX8U5.jpg"
       },
       "geometry": {
@@ -961,7 +961,7 @@ var hidrant =
         "@id": "node/9549587531",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -978,7 +978,7 @@ var hidrant =
         "@id": "node/9549630147",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -995,7 +995,7 @@ var hidrant =
         "@id": "node/9554547343",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground",
+        "tipo": "Subterrani",
         "signed": "no"
       },
       "geometry": {
@@ -1013,7 +1013,7 @@ var hidrant =
         "@id": "node/9554747761",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1030,7 +1030,7 @@ var hidrant =
         "@id": "node/9554760247",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1047,7 +1047,7 @@ var hidrant =
         "@id": "node/9555795942",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1064,7 +1064,7 @@ var hidrant =
         "@id": "node/9555796441",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1081,7 +1081,7 @@ var hidrant =
         "@id": "node/9557600019",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1098,7 +1098,7 @@ var hidrant =
         "@id": "node/9561205055",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "green",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1115,7 +1115,7 @@ var hidrant =
         "@id": "node/9563651136",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1132,7 +1132,7 @@ var hidrant =
         "@id": "node/9567181809",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1149,7 +1149,7 @@ var hidrant =
         "@id": "node/9567219283",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1166,7 +1166,7 @@ var hidrant =
         "@id": "node/9567221733",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1183,7 +1183,7 @@ var hidrant =
         "@id": "node/9567256536",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1199,7 +1199,7 @@ var hidrant =
       "properties": {
         "@id": "node/9569437114",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1216,7 +1216,7 @@ var hidrant =
         "@id": "node/9580869788",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1233,7 +1233,7 @@ var hidrant =
         "@id": "node/9580873382",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1249,7 +1249,7 @@ var hidrant =
       "properties": {
         "@id": "node/9581912431",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1267,7 +1267,7 @@ var hidrant =
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1284,7 +1284,7 @@ var hidrant =
         "@id": "node/9582920758",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1301,7 +1301,7 @@ var hidrant =
         "@id": "node/9582941063",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1318,7 +1318,7 @@ var hidrant =
         "@id": "node/9582952501",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1335,7 +1335,7 @@ var hidrant =
         "@id": "node/9582965581",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1352,7 +1352,7 @@ var hidrant =
         "@id": "node/9583476440",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1369,7 +1369,7 @@ var hidrant =
         "@id": "node/9584109435",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1386,7 +1386,7 @@ var hidrant =
         "@id": "node/9584121041",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "lane",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1403,7 +1403,7 @@ var hidrant =
         "@id": "node/9584121042",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1420,7 +1420,7 @@ var hidrant =
         "@id": "node/9584121043",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "lane",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1437,7 +1437,7 @@ var hidrant =
         "@id": "node/9584121044",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1454,7 +1454,7 @@ var hidrant =
         "@id": "node/9584121045",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1471,7 +1471,7 @@ var hidrant =
         "@id": "node/9585292541",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1503,7 +1503,7 @@ var hidrant =
         "@id": "node/9586761915",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1520,7 +1520,7 @@ var hidrant =
         "@id": "node/9586841737",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1537,7 +1537,7 @@ var hidrant =
         "@id": "node/9589519902",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1554,7 +1554,7 @@ var hidrant =
         "@id": "node/9589860366",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1571,7 +1571,7 @@ var hidrant =
         "@id": "node/9591049135",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1587,7 +1587,7 @@ var hidrant =
       "properties": {
         "@id": "node/9591056352",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1604,7 +1604,7 @@ var hidrant =
         "@id": "node/9599651393",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1621,7 +1621,7 @@ var hidrant =
         "@id": "node/9599748033",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1638,7 +1638,7 @@ var hidrant =
         "@id": "node/9603471409",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1656,7 +1656,7 @@ var hidrant =
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar",
+        "tipo": "Pilar",
         "image": "https://i.imgur.com/Dn9Dys6.jpg"
       },
       "geometry": {
@@ -1674,7 +1674,7 @@ var hidrant =
         "@id": "node/9606065416",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1691,7 +1691,7 @@ var hidrant =
         "@id": "node/9606071323",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1707,7 +1707,7 @@ var hidrant =
       "properties": {
         "@id": "node/9607696694",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1724,7 +1724,7 @@ var hidrant =
         "@id": "node/9608333796",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "green",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1756,7 +1756,7 @@ var hidrant =
         "@id": "node/9611836426",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1788,7 +1788,7 @@ var hidrant =
         "@id": "node/9612554614",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1805,7 +1805,7 @@ var hidrant =
         "@id": "node/9613055397",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1822,7 +1822,7 @@ var hidrant =
         "@id": "node/9613103463",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1839,7 +1839,7 @@ var hidrant =
         "@id": "node/9613140931",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1856,7 +1856,7 @@ var hidrant =
         "@id": "node/9643962434",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1873,7 +1873,7 @@ var hidrant =
         "@id": "node/9647039884",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1890,7 +1890,7 @@ var hidrant =
         "@id": "node/9653412726",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1907,7 +1907,7 @@ var hidrant =
         "@id": "node/9654467198",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -1924,7 +1924,7 @@ var hidrant =
         "@id": "node/9661352421",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1941,7 +1941,7 @@ var hidrant =
         "@id": "node/9661358080",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1958,7 +1958,7 @@ var hidrant =
         "@id": "node/9661398663",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1975,7 +1975,7 @@ var hidrant =
         "@id": "node/9663659768",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -1992,7 +1992,7 @@ var hidrant =
         "@id": "node/9672615205",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2009,7 +2009,7 @@ var hidrant =
         "@id": "node/9672643595",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2026,7 +2026,7 @@ var hidrant =
         "@id": "node/9676571845",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "lane",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2043,7 +2043,7 @@ var hidrant =
         "@id": "node/9676698834",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2060,7 +2060,7 @@ var hidrant =
         "@id": "node/9676704954",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "lane",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2077,7 +2077,7 @@ var hidrant =
         "@id": "node/9676733103",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "lane",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2094,7 +2094,7 @@ var hidrant =
         "@id": "node/9676782825",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2112,7 +2112,7 @@ var hidrant =
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2129,7 +2129,7 @@ var hidrant =
         "@id": "node/9677839554",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2146,7 +2146,7 @@ var hidrant =
         "@id": "node/9680504262",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2163,7 +2163,7 @@ var hidrant =
         "@id": "node/9688357340",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2180,7 +2180,7 @@ var hidrant =
         "@id": "node/9688357341",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2197,7 +2197,7 @@ var hidrant =
         "@id": "node/9692495411",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2214,7 +2214,7 @@ var hidrant =
         "@id": "node/9693266177",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2231,7 +2231,7 @@ var hidrant =
         "@id": "node/9693268340",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2248,7 +2248,7 @@ var hidrant =
         "@id": "node/9694559552",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2265,7 +2265,7 @@ var hidrant =
         "@id": "node/9697536809",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2282,7 +2282,7 @@ var hidrant =
         "@id": "node/9706186071",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2299,7 +2299,7 @@ var hidrant =
         "@id": "node/9711327213",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2316,7 +2316,7 @@ var hidrant =
         "@id": "node/9725239013",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2333,7 +2333,7 @@ var hidrant =
         "@id": "node/9733244981",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2351,7 +2351,7 @@ var hidrant =
         "colour": "red",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground",
+        "tipo": "Subterrani",
         "image": "https://i.imgur.com/ZNGRAJq.jpg"
       },
       "geometry": {
@@ -2369,7 +2369,7 @@ var hidrant =
         "@id": "node/9737586280",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2386,7 +2386,7 @@ var hidrant =
         "@id": "node/9737586281",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2403,7 +2403,7 @@ var hidrant =
         "@id": "node/9739848979",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2420,7 +2420,7 @@ var hidrant =
         "@id": "node/9740103699",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2437,7 +2437,7 @@ var hidrant =
         "@id": "node/9741059725",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2454,7 +2454,7 @@ var hidrant =
         "@id": "node/9741551220",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2471,7 +2471,7 @@ var hidrant =
         "@id": "node/9741562770",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2488,7 +2488,7 @@ var hidrant =
         "@id": "node/9741610213",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2520,7 +2520,7 @@ var hidrant =
         "@id": "node/9754144195",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2537,7 +2537,7 @@ var hidrant =
         "@id": "node/9754177117",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2553,7 +2553,7 @@ var hidrant =
       "properties": {
         "@id": "node/9756901614",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2570,7 +2570,7 @@ var hidrant =
         "@id": "node/9756914590",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2587,7 +2587,7 @@ var hidrant =
         "@id": "node/9766511834",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2603,7 +2603,7 @@ var hidrant =
       "properties": {
         "@id": "node/9767787648",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2620,7 +2620,7 @@ var hidrant =
         "@id": "node/9770902374",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2637,7 +2637,7 @@ var hidrant =
         "@id": "node/9786928168",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2654,7 +2654,7 @@ var hidrant =
         "@id": "node/9786928169",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2671,7 +2671,7 @@ var hidrant =
         "@id": "node/9786928170",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2688,7 +2688,7 @@ var hidrant =
         "@id": "node/9787635024",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2704,7 +2704,7 @@ var hidrant =
       "properties": {
         "@id": "node/9787647987",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2736,7 +2736,7 @@ var hidrant =
         "@id": "node/9789130104",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2752,7 +2752,7 @@ var hidrant =
       "properties": {
         "@id": "node/9790989908",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2769,7 +2769,7 @@ var hidrant =
         "@id": "node/9797097717",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2786,7 +2786,7 @@ var hidrant =
         "@id": "node/9825165097",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2802,7 +2802,7 @@ var hidrant =
       "properties": {
         "@id": "node/9826238108",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2819,7 +2819,7 @@ var hidrant =
         "@id": "node/9833984663",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2851,7 +2851,7 @@ var hidrant =
         "@id": "node/9840935828",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2868,7 +2868,7 @@ var hidrant =
         "@id": "node/9841006381",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2884,7 +2884,7 @@ var hidrant =
       "properties": {
         "@id": "node/9889290169",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2900,7 +2900,7 @@ var hidrant =
       "properties": {
         "@id": "node/9889296124",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2916,7 +2916,7 @@ var hidrant =
       "properties": {
         "@id": "node/9889414655",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2933,7 +2933,7 @@ var hidrant =
         "@id": "node/9964893392",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2964,7 +2964,7 @@ var hidrant =
       "properties": {
         "@id": "node/9968077069",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -2981,7 +2981,7 @@ var hidrant =
         "@id": "node/9999791085",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -2998,7 +2998,7 @@ var hidrant =
         "@id": "node/10008229117",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -3015,7 +3015,7 @@ var hidrant =
         "@id": "node/10012294071",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -3031,7 +3031,7 @@ var hidrant =
       "properties": {
         "@id": "node/10120329036",
         "emergency": "fire_hydrant",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
@@ -3048,7 +3048,7 @@ var hidrant =
         "@id": "node/10148348863",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "pillar"
+        "tipo": "Pilar"
       },
       "geometry": {
         "type": "Point",
@@ -3065,7 +3065,7 @@ var hidrant =
         "@id": "node/10148357772",
         "emergency": "fire_hydrant",
         "fire_hydrant:position": "sidewalk",
-        "fire_hydrant:type": "underground"
+        "tipo": "Subterrani"
       },
       "geometry": {
         "type": "Point",
