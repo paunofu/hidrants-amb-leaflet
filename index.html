@@ -42,7 +42,7 @@ var osmcarto = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 
 
 L.control.layers(baseLayers).addTo(map);
-L.geoJSON(hidrant).addTo(map).bindPopup("<b>Hidrant</b>"); 
+L.geoJSON(hidrant).addTo(map).bindPopup('<h1>'Hidrant'</h1><p>Capacitat: '+feature.properties.fire_hydrant:type+'</p>'); 
 
         </script>
     </body>
