@@ -40,7 +40,7 @@ var osmcarto = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 		"Ortofotos (IGN)": pnoa
 	};
 
-
+	L.control.layers(baseLayers).addTo(map);
 var layerGroup = L.geoJson(hidrant, {
 	onEachFeature: function (feature, layer)
 			{layer.bindPopup('<h1>'+feature.properties.tipo+'</h1>');
